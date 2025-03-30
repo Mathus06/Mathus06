@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔭 I’m currently working on Building a Metro Application in C# (School Project) <br>- 🌱 I’m currently learning C++, C#, JavaScript<br><br><br>- 📫 How to reach me: See below<br>
+- 🔭 I’m currently working on Building a Metro Application in C# (School Project)<br>
+- 🌱 I’m currently learning C++, C#, JavaScript<br>
+- 📫 How to reach me: See below<br>
 
 
 # 💻 Tech Stack:
