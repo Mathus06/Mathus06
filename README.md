@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 - 🏫 I’m currently working on Building a Metro Application in C#<br>
-- 🏡 I’m currently working on my Portfolio with Web Technologies<br>
+- 🏡 I’m currently working on a Discord Bot in NodeJs<br>
 - 🌱 I’m currently learning C++, C#, JavaScript<br>
 - 📫 How to reach me: See below<br>
 
